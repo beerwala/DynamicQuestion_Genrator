@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5F8b0M3Ln8fsaRFfgbla9px6lPMzSqQSMA9SzJKcsVk=",
+  "Source": "DynamicQuestion.WebApi",
+  "BasePath": "_content/DynamicQuestion.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
